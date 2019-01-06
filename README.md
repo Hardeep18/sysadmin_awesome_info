@@ -492,5 +492,9 @@ Various resources, such as books, websites and articles, for improving your skil
 * [Ops School](http://www.opsschool.org) - Comprehensive program that will help you learn to be an operations engineer.
 * [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) - A surprisingly vast resource for getting the basics of certain applications, tools, or even systems administration topics. (Note: Digital Ocean pays authors for this content)
 
-# Contributing
+# Contributing & Collaborating
 Please see [CONTRIBUTING](https://github.com/kahun/awesome-sysadmin/blob/master/CONTRIBUTING.md) for details.
+[CODE-OF-CONDUCT](https://github.com/ziadoz/awesome-php/blob/master/CODE-OF-CONDUCT.md)
+[COLLABORATING](https://github.com/ziadoz/awesome-php/blob/master/COLLABORATING.md)for details.
+
+
